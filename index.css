@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+}
+
+.background {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #ffefd5;
+  user-select: none;
+  background-color: #9195ff;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+
+}
+
+.body {
+  padding-bottom: 20px;
+  margin: 0 25% 10px 25%;
+  background-color: #ffefd5;
+  box-shadow: 10px 10px 15px rgba(87, 87, 87, 0.78);
+}
+
+@media all and (min-width: 900px) {
+  body {
+    padding: 1rem 3rem;
+  }
+}
+
+.name {
+  margin: 0 120px;
+  font-family: Bradley Hand, cursive;
+  font-size: 40px;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+}
+
+.photo {
+  margin: 0 10px;
+}
+
+.avatar-image {
+  border: 3px solid #d21cff;
+  border-radius: 50%;
+}
+
+.flex-inside {
+  width: 50%;
+  margin-right: 10px;
+  margin-left: 10%;
+}
+
+.Title {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-family: URW Chancery L, cursive;
+  font-size: xx-large;
+  font-weight: 500;
+}
+
+.info-contact {
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+
+.text-title {
+  padding-top: 10px;
+  font-family: Bradley Hand, cursive;
+}
+
+.info-left {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 10px;
+  font-family: Bradley Hand, cursive;
+}
+
+
