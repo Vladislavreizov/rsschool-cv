@@ -1,2 +1,2 @@
 https://Vladislavreizov.github.io/rsschool-cv/cv
-https://Vladislavreizov.github.io/rsschool-cv/pull/3
+https://Vladislavreizov.github.io/rsschool-cv
